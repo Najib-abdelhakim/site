@@ -13,3 +13,4 @@
 "# Vecteurs-de-Mots" 
 "# Vecteurs-de-Mots" 
 "# Cosinus-Similarit" 
+"# word-Similarit" 
